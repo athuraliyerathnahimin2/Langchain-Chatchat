@@ -1,5 +1,5 @@
 [virtualenvs]
 in-project = true
-
+we
 [plugins.pypi_mirror]
 url = "https://pypi.tuna.tsinghua.edu.cn/simple"
